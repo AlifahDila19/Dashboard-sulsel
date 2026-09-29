@@ -8,7 +8,6 @@ st.set_page_config(page_title="Profil Ekonomi Sulsel", layout="wide", initial_si
 st.markdown("""
     <style>
         /* Sembunyikan Header Bawaan Streamlit */
-        header {visibility: hidden;}
         #MainMenu {visibility: hidden;}
         footer {visibility: hidden;}
         
