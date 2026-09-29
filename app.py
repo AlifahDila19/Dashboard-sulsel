@@ -13,7 +13,7 @@ st.markdown("""
         
         /* Jarak Atas Kontainer yang Pas Agar Judul Tidak Terpotong */
         .block-container {
-            padding-top: 2.2rem !important;
+            padding-top: 4 rem !important;
             padding-bottom: 1rem !important;
             max-width: 95% !important;
         }
