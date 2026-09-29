@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # 1. Konfigurasi Halaman & Perbaikan CSS (Menyembunyikan Header Bawaan & Mengatur Jarak Judul)
-st.set_page_config(page_title="Profil Ekonomi Sulsel", layout="wide")
+st.set_page_config(page_title="Profil Ekonomi Sulsel", layout="wide", initial_sidebar_state="expanded")
 
 st.markdown("""
     <style>
